@@ -1,0 +1,63 @@
+/* General body styling */
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+    background: #f4f6f8;
+    color: #222;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+/* Main heading */
+h1 {
+    font-size: 3rem;
+    color: #2c3e50;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+
+/* Dropdown styling */
+select#uo {
+    font-size: 1.25rem;
+    padding: 12px 20px;
+    border: 2px solid #3498db;
+    border-radius: 6px;
+    margin: 20px 0;
+    background-color: #fff;
+    color: #2c3e50;
+}
+
+/* Display area for computer choice */
+h4 {
+    font-size: 1.5rem;
+    margin: 20px 0;
+}
+
+span#co {
+    font-weight: 600;
+    color: #8e44ad;
+}
+
+/* Button styling */
+button {
+    font-size: 1.25rem;
+    padding: 14px 28px;
+    background-color: #2980b9;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+}
+
+button:hover {
+    background-color: #1f618d;
+}
+
+/* Result paragraph */
+p#res {
+    margin-top: 30px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #27ae60;
+}
